@@ -2,4 +2,9 @@
  + Estudante de Sistemas de Informação na PucMinas :desktop_computer:
  + Sempre estudando e procurando evoluir :books:
 # Linguaguens/Ferramentas
-https://camo.githubusercontent.com/84372c7d2f1a7308844360ecad82d49b3f6cbc068a0c5e31aeea6ca5344b77ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b
+<div style="display: inline_block">
+<img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img align="center" alt="tml" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div><br>
