@@ -11,6 +11,6 @@
 
 # Fale Comigo :upside_down_face:
 <div style="display: inline_block">
-<a href="mailto:henrique.le.santos@gmail.com"><img align="center" alt="c#" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/leandro-santos-742364217/"><img align="center" alt="c#" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:henrique.le.santos@gmail.com" target="_blank"><img align="center" alt="c#" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/leandro-santos-742364217/" target="_blank" ><img align="center" alt="c#" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
